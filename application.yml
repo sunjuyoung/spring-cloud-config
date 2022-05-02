@@ -1,6 +1,6 @@
 token:
   expiration_time: 8640000
-  secret: application_token_native_changed#4141
+  secret: application_token_native_changed#1111111
 
 
 gateway:
