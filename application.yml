@@ -1,3 +1,7 @@
 token:
   expiration_time: 86400000
   secret: msa_native_token
+
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
