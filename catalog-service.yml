@@ -3,11 +3,7 @@ spring:
     driver-class-name: org.mariadb.jdbc.Driver
     url: jdbc:mariadb://127.0.0.1:3307/mydb
     username: root
-    password: '{cipher}d3d11f5d7516c98f9b9fccc6b53172614835cee41ef1896c88d94f85e584374a'
-
-
+    password: "{cipher}d3d11f5d7516c98f9b9fccc6b53172614835cee41ef1896c88d94f85e584374a"
 
 gateway:
   ip: 218.147.255.133
-
-
